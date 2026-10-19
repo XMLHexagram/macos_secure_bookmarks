@@ -16,5 +16,6 @@ temp fake file_chooser plugin
   s.dependency 'Flutter'
 
   s.ios.deployment_target = '14.0'
+  s.swift_version = '5.0'
 end
 
